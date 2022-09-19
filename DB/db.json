@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sumsang M 40",
+      "color": "black",
+      "price": 15000,
+      "category": "Mobile",
+      "brand": "Sumsang",
+      "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sumsang F 20",
+        "color": "white",
+        "price": 13000,
+        "category": "Mobile",
+        "brand": "Sumsang",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 3,
+        "name": "T- Shirts",
+        "color": "red and black",
+        "price": 5000,
+        "category": "Cloths",
+        "brand": "Nike",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sport Shoes",
+        "color": "black",
+        "price": 7000,
+        "category": "Shoes",
+        "brand": "Nike",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Laptop Patches",
+        "color": "Grey",
+        "price": 8000,
+        "category": "Laptops",
+        "brand": "HP",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Process i5 10th Gen",
+        "color": "Black",
+        "price": 8500,
+        "category": "Laptops",
+        "brand": "Intel",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mac Book Pro",
+        "color": "Brey White",
+        "price": 100000,
+        "category": "Laptops",
+        "brand": "Intel",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Table Tissues",
+        "color": "Brey White",
+        "price": 45000,
+        "category": "Cosmetic",
+        "brand": "OK",
+        "photo": "https://img.etimg.com/thumb/msid-59424968,width-640,resizemode-4,imgsize-182738/nokia-1100.jpg"
+      }
+  ]
+}
